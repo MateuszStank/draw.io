@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T12:44:13.340Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.114 Safari/537.36" etag="TLEhXeZdqp8MZg6-nwaf" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-18T12:38:48.158Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.114 Safari/537.36" etag="mV3heq97HnWewm2tRbnd" version="15.7.4" type="github">
   <diagram id="hXmA5XIvktbHYodzjVGL" name="Page-1">
-    <mxGraphModel dx="-167" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-34" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,14 +127,8 @@
         <mxCell id="TfGKt4o6MWe9bU39I7_k-51" value="Parter" style="text;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=5;" parent="1" vertex="1">
           <mxGeometry x="1118.62" y="174.5" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TfGKt4o6MWe9bU39I7_k-53" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1140.25" y="91" width="9" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="TfGKt4o6MWe9bU39I7_k-54" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1222.12" y="91.5" width="9" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TfGKt4o6MWe9bU39I7_k-55" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1312.27" y="93" width="9" height="80" as="geometry" />
+          <mxGeometry x="1149.12" y="91" width="9" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TfGKt4o6MWe9bU39I7_k-56" value="Gar" style="text;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=5;" parent="1" vertex="1">
           <mxGeometry x="1237.5" y="171" width="10" height="20" as="geometry" />
@@ -144,9 +138,6 @@
         </mxCell>
         <mxCell id="TfGKt4o6MWe9bU39I7_k-58" value="P2" style="text;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=5;" parent="1" vertex="1">
           <mxGeometry x="1166.75" y="92.5" width="10" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TfGKt4o6MWe9bU39I7_k-59" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1257.0000000000005" y="94.5" width="9" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TfGKt4o6MWe9bU39I7_k-60" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1265.0000000000002" y="119.5" width="9" height="30" as="geometry" />
@@ -174,9 +165,6 @@
         </mxCell>
         <mxCell id="TfGKt4o6MWe9bU39I7_k-75" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1176.0000000000005" y="171" width="9" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TfGKt4o6MWe9bU39I7_k-76" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1167.2500000000005" y="171" width="9" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TfGKt4o6MWe9bU39I7_k-77" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1220.0000000000005" y="287.5" width="9" height="30" as="geometry" />
@@ -250,9 +238,6 @@
         <mxCell id="TfGKt4o6MWe9bU39I7_k-108" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.terminal_4_6mm2;fontSize=5;" parent="TfGKt4o6MWe9bU39I7_k-105" vertex="1">
           <mxGeometry x="6.5" width="2.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TfGKt4o6MWe9bU39I7_k-73" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="TfGKt4o6MWe9bU39I7_k-105" vertex="1">
-          <mxGeometry x="-6.499999999999773" y="-25" width="9" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="TfGKt4o6MWe9bU39I7_k-109" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1273.0000000000002" y="187" width="9" height="7.5" as="geometry" />
         </mxCell>
@@ -322,9 +307,6 @@
         <mxCell id="TfGKt4o6MWe9bU39I7_k-138" value="1. Garaz&lt;br&gt;2. Kanał&lt;br&gt;3. Wejście&lt;br&gt;4. Brama,&lt;br&gt;5. Taras 1&lt;br&gt;6. Taras 2&lt;br&gt;7. Elewacja&lt;br&gt;8. Taras3" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=5;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1336" y="268" width="165.04" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TfGKt4o6MWe9bU39I7_k-139" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1312.5" y="175.5" width="9" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="TfGKt4o6MWe9bU39I7_k-150" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1240.0000000000005" y="287.5" width="9" height="30" as="geometry" />
         </mxCell>
@@ -339,9 +321,6 @@
         </mxCell>
         <mxCell id="TfGKt4o6MWe9bU39I7_k-154" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1249" y="263.5" width="9" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TfGKt4o6MWe9bU39I7_k-155" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1210.5000000000005" y="263.5" width="9" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TfGKt4o6MWe9bU39I7_k-156" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_3p;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1105.87" y="276.5" width="27" height="50" as="geometry" />
